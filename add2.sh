@@ -10,9 +10,9 @@ echo " $$"
 echo " $!"
 
 
-for i in "$@"
+for j in "$@"
 do
-	echo " Argument : $i"
+	echo " Argument : $j"
 
 done
 
